@@ -6,6 +6,7 @@ What it does:
 - processes data
 - feeds into model
 - takes output data and process into midi
+  
 Todo:
 - clean up code
 - work with more data, a lot more
